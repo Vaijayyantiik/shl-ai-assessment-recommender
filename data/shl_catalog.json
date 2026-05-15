@@ -1,5 +1,184 @@
 [
     {
+        "name": "Python Programming Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for Python programming, backend engineering, APIs, Flask, Django, and software development.",
+        "domain": "software engineering",
+        "skills": [
+            "python",
+            "backend development",
+            "api development",
+            "django",
+            "flask",
+            "software engineering"
+        ],
+        "job_roles": [
+            "python developer",
+            "backend engineer",
+            "software engineer"
+        ],
+        "tags": [
+            "python",
+            "backend",
+            "developer",
+            "programming",
+            "software",
+            "api",
+            "django",
+            "flask"
+        ],
+        "test_type": "Technical"
+    },
+
+    {
+        "name": "Backend Developer Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for backend software development, APIs, databases, and scalable systems.",
+        "domain": "software engineering",
+        "skills": [
+            "backend development",
+            "api development",
+            "databases",
+            "software engineering"
+        ],
+        "job_roles": [
+            "backend developer",
+            "software engineer"
+        ],
+        "tags": [
+            "backend",
+            "developer",
+            "software",
+            "api",
+            "programming"
+        ],
+        "test_type": "Technical"
+    },
+
+    {
+        "name": "Java Developer Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for Java programming, Spring Boot, backend development, and object-oriented programming.",
+        "domain": "software engineering",
+        "skills": [
+            "java",
+            "spring boot",
+            "backend development",
+            "oop"
+        ],
+        "job_roles": [
+            "java developer",
+            "backend engineer",
+            "software engineer"
+        ],
+        "tags": [
+            "java",
+            "spring",
+            "backend",
+            "developer",
+            "programming"
+        ],
+        "test_type": "Technical"
+    },
+
+    {
+        "name": "Frontend Developer Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for frontend development using JavaScript, React, HTML, and CSS.",
+        "domain": "software engineering",
+        "skills": [
+            "javascript",
+            "react",
+            "html",
+            "css",
+            "frontend development"
+        ],
+        "job_roles": [
+            "frontend developer",
+            "web developer"
+        ],
+        "tags": [
+            "frontend",
+            "javascript",
+            "react",
+            "html",
+            "css",
+            "web"
+        ],
+        "test_type": "Technical"
+    },
+
+    {
+        "name": "Software Engineering Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for software engineering fundamentals, coding, debugging, and problem solving.",
+        "domain": "software engineering",
+        "skills": [
+            "coding",
+            "software engineering",
+            "problem solving",
+            "debugging"
+        ],
+        "job_roles": [
+            "software engineer",
+            "developer"
+        ],
+        "tags": [
+            "software",
+            "developer",
+            "coding",
+            "engineering",
+            "technical"
+        ],
+        "test_type": "Technical"
+    },
+
+    {
+        "name": "Leadership Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for leadership, communication, decision-making, and team management.",
+        "domain": "management",
+        "skills": [
+            "leadership",
+            "communication",
+            "team management"
+        ],
+        "job_roles": [
+            "manager",
+            "team lead"
+        ],
+        "tags": [
+            "leadership",
+            "management",
+            "communication"
+        ],
+        "test_type": "Behavioral"
+    },
+
+    {
+        "name": "Communication Skills Assessment",
+        "url": "https://www.shl.com",
+        "description": "Assessment for verbal communication, presentation skills, and interpersonal effectiveness.",
+        "domain": "soft skills",
+        "skills": [
+            "communication",
+            "presentation",
+            "interpersonal skills"
+        ],
+        "job_roles": [
+            "customer support",
+            "sales executive",
+            "manager"
+        ],
+        "tags": [
+            "communication",
+            "soft skills",
+            "presentation"
+        ],
+        "test_type": "Behavioral"
+    },
+
+    {
         "name": "Account Manager Solution",
         "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
         "description": "Assessment for account management, communication, and client handling.",
@@ -8,6 +187,7 @@
             "management"
         ]
     },
+
     {
         "name": "Administrative Professional - Short Form",
         "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
@@ -17,6 +197,7 @@
             "assessment"
         ]
     },
+
     {
         "name": "Agency Manager Solution",
         "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
@@ -26,96 +207,7 @@
             "management"
         ]
     },
-    {
-        "name": "Apprentice + 8.0 Job Focused Assessment",
-        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
-        "description": "Assessment for apprenticeships and entry-level hiring.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Apprentice 8.0 Job Focused Assessment",
-        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
-        "description": "Assessment for apprenticeship and early career hiring.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Bank Administrative Assistant - Short Form",
-        "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
-        "description": "Assessment for banking administrative support positions.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Bank Collections Agent - Short Form",
-        "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
-        "description": "Assessment for collections and financial call center roles.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Bank Operations Supervisor - Short Form",
-        "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
-        "description": "Assessment for banking supervisors and operations leaders.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Bilingual Spanish Reservation Agent Solution",
-        "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
-        "description": "Assessment for hospitality and bilingual customer service roles.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
-        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
-        "description": "Assessment for bookkeeping and accounting jobs.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Branch Manager - Short Form",
-        "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
-        "description": "Assessment for branch management and leadership.",
-        "tags": [
-            "leadership",
-            "management"
-        ]
-    },
-    {
-        "name": "Cashier Solution",
-        "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
-        "description": "Assessment for retail cashier and sales associate roles.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Global Skills Development Report",
-        "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
-        "description": "Assessment for measuring communication, leadership, and professional skills.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
+
     {
         "name": ".NET Framework 4.5",
         "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
@@ -126,92 +218,7 @@
             "asp.net"
         ]
     },
-    {
-        "name": ".NET MVC (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
-        "description": "Assessment for MVC architecture and backend development.",
-        "tags": [
-            "c#",
-            ".net",
-            "asp.net"
-        ]
-    },
-    {
-        "name": ".NET MVVM (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
-        "description": "Assessment for MVVM software development pattern knowledge.",
-        "tags": [
-            "c#",
-            ".net",
-            "asp.net"
-        ]
-    },
-    {
-        "name": ".NET WCF (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
-        "description": "Assessment for WCF and service-oriented architecture development.",
-        "tags": [
-            "c#",
-            ".net",
-            "asp.net"
-        ]
-    },
-    {
-        "name": ".NET WPF (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
-        "description": "Assessment for WPF and desktop application development.",
-        "tags": [
-            "c#",
-            ".net",
-            "asp.net"
-        ]
-    },
-    {
-        "name": ".NET XAML (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
-        "description": "Assessment for XAML and UI development.",
-        "tags": [
-            "c#",
-            ".net",
-            "asp.net"
-        ]
-    },
-    {
-        "name": "Accounts Payable (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
-        "description": "Assessment for accounts payable processing roles.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Accounts Payable Simulation (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
-        "description": "Simulation assessment for accounts payable tasks.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Accounts Receivable (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
-        "description": "Assessment for accounts receivable processing roles.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
-    {
-        "name": "Accounts Receivable Simulation (New)",
-        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
-        "description": "Simulation assessment for accounts receivable tasks.",
-        "tags": [
-            "general",
-            "assessment"
-        ]
-    },
+
     {
         "name": "ADO.NET (New)",
         "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
