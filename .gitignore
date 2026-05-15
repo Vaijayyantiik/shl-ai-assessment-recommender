@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+shl_ai.db
+.cache/

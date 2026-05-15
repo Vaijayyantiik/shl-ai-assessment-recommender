@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Account Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+        "description": "Assessment for account management, communication, and client handling.",
+        "tags": [
+            "management",
+            "leadership",
+            "communication",
+            "client",
+            "sales"
+        ]
+    },
+    {
+        "name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+        "description": "Assessment for office administration and customer service roles.",
+        "tags": [
+            "administration",
+            "office",
+            "assistant",
+            "customer-service",
+            "clerical"
+        ]
+    },
+    {
+        "name": "Agency Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+        "description": "Assessment for sales management and leadership positions.",
+        "tags": [
+            "leadership",
+            "manager",
+            "sales",
+            "communication",
+            "supervisor"
+        ]
+    },
+    {
+        "name": "Apprentice + 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+        "description": "Assessment for apprenticeships and entry-level hiring.",
+        "tags": [
+            "entry-level",
+            "graduate",
+            "general",
+            "aptitude",
+            "problem-solving"
+        ]
+    },
+    {
+        "name": "Apprentice 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+        "description": "Assessment for apprenticeship and early career hiring.",
+        "tags": [
+            "entry-level",
+            "graduate",
+            "general",
+            "aptitude",
+            "problem-solving"
+        ]
+    },
+    {
+        "name": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "description": "Assessment for banking administrative support positions.",
+        "tags": [
+            "banking",
+            "administration",
+            "assistant",
+            "office",
+            "customer-service"
+        ]
+    },
+    {
+        "name": "Bank Collections Agent - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+        "description": "Assessment for collections and financial call center roles.",
+        "tags": [
+            "banking",
+            "collections",
+            "call-center",
+            "customer-service",
+            "finance"
+        ]
+    },
+    {
+        "name": "Bank Operations Supervisor - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+        "description": "Assessment for banking supervisors and operations leaders.",
+        "tags": [
+            "leadership",
+            "manager",
+            "supervisor",
+            "banking",
+            "operations"
+        ]
+    },
+    {
+        "name": "Bilingual Spanish Reservation Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+        "description": "Assessment for hospitality and bilingual customer service roles.",
+        "tags": [
+            "customer-service",
+            "hospitality",
+            "bilingual",
+            "communication",
+            "support"
+        ]
+    },
+    {
+        "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "Assessment for bookkeeping and accounting jobs.",
+        "tags": [
+            "finance",
+            "accounting",
+            "bookkeeping",
+            "auditing",
+            "data-entry"
+        ]
+    },
+    {
+        "name": "Branch Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+        "description": "Assessment for branch management and leadership.",
+        "tags": [
+            "leadership",
+            "manager",
+            "supervisor",
+            "teamwork",
+            "communication"
+        ]
+    },
+    {
+        "name": "Cashier Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+        "description": "Assessment for retail cashier and sales associate roles.",
+        "tags": [
+            "retail",
+            "cashier",
+            "sales",
+            "customer-service",
+            "entry-level"
+        ]
+    },
+    {
+        "name": "Global Skills Development Report",
+        "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+        "description": "Assessment for measuring communication, leadership, and professional skills.",
+        "tags": [
+            "leadership",
+            "communication",
+            "professional",
+            "teamwork",
+            "skills"
+        ]
+    },
+    {
+        "name": ".NET Framework 4.5",
+        "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+        "description": "Assessment for .NET software development skills.",
+        "tags": [
+            "dotnet",
+            "backend",
+            "developer",
+            "software",
+            "programming"
+        ]
+    },
+    {
+        "name": ".NET MVC (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+        "description": "Assessment for MVC architecture and backend development.",
+        "tags": [
+            "dotnet",
+            "mvc",
+            "backend",
+            "developer",
+            "software"
+        ]
+    },
+    {
+        "name": ".NET MVVM (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+        "description": "Assessment for MVVM software development pattern knowledge.",
+        "tags": [
+            "dotnet",
+            "mvvm",
+            "developer",
+            "software",
+            "programming"
+        ]
+    },
+    {
+        "name": ".NET WCF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+        "description": "Assessment for WCF and service-oriented architecture development.",
+        "tags": [
+            "dotnet",
+            "backend",
+            "developer",
+            "wcf",
+            "programming"
+        ]
+    },
+    {
+        "name": ".NET WPF (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+        "description": "Assessment for WPF and desktop application development.",
+        "tags": [
+            "dotnet",
+            "wpf",
+            "desktop",
+            "developer",
+            "programming"
+        ]
+    },
+    {
+        "name": ".NET XAML (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+        "description": "Assessment for XAML and UI development.",
+        "tags": [
+            "dotnet",
+            "xaml",
+            "frontend",
+            "developer",
+            "ui"
+        ]
+    },
+    {
+        "name": "Accounts Payable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+        "description": "Assessment for accounts payable processing roles.",
+        "tags": [
+            "finance",
+            "accounting",
+            "accounts-payable",
+            "invoices",
+            "bookkeeping"
+        ]
+    },
+    {
+        "name": "Accounts Payable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+        "description": "Simulation assessment for accounts payable tasks.",
+        "tags": [
+            "finance",
+            "accounting",
+            "simulation",
+            "accounts-payable",
+            "bookkeeping"
+        ]
+    },
+    {
+        "name": "Accounts Receivable (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+        "description": "Assessment for accounts receivable processing roles.",
+        "tags": [
+            "finance",
+            "accounting",
+            "accounts-receivable",
+            "invoices",
+            "bookkeeping"
+        ]
+    },
+    {
+        "name": "Accounts Receivable Simulation (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "description": "Simulation assessment for accounts receivable tasks.",
+        "tags": [
+            "finance",
+            "accounting",
+            "simulation",
+            "accounts-receivable",
+            "bookkeeping"
+        ]
+    },
+    {
+        "name": "ADO.NET (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+        "description": "Assessment for ADO.NET architecture and backend development.",
+        "tags": [
+            "dotnet",
+            "backend",
+            "developer",
+            "database",
+            "programming"
+        ]
+    }
+]
